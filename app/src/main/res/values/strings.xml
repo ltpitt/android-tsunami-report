@@ -15,7 +15,7 @@
 -->
 <resources>
     <!-- Title for the application. [CHAR LIMIT=12] -->
-    <string name="app_name">Soonami</string>
+    <string name="app_name">Tsunami Report</string>
 
     <!-- Header that goes above the title of the earthquake event [CHAR LIMIT=50] -->
     <string name="header_event">Event</string>
